@@ -39,7 +39,7 @@ Paragraph Default: 1.6
 - Greys
  #888
  #767676 (lightest grey allowed on #fff)
- #6f6f6f (lightest grey allowed on #fdf2e9
+ #6f6f6f (lightest grey allowed on #fdf2e9)
  #555
  #333
 
@@ -261,9 +261,9 @@ body {
 
 *:focus {
   outline: none;
-  /* outline: 4px dotted #e67e22;
-  outline-offset: 8px; */
-  box-shadow: 0 0 0 0.8rem rgba(232, 127, 36, 0.5);
+  /* outline: 4px dotted #e67e22; */
+  /* outline-offset: 8px; */
+  box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
 }
 
 /** HELPER/SETTINGS CLASSES **/
