@@ -45,9 +45,7 @@ To use this app is relatively simple, just navigate to the website and in the na
 
 ## Credits
 
-- Joshua V. Garcia
-
-- [My GitHub Profile](https://github.com/garciajv86)
+- [Joshua V. Garcia](https://github.com/garciajv86)
 
 - Jonas Schmedtman
 
